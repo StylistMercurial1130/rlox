@@ -1,0 +1,6 @@
+
+
+fun main() {
+	var float_value = 10.24;
+	var expression = 1 / 2 + 4 * 5;
+}
